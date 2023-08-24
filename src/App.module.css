@@ -1,0 +1,13 @@
+@import "./vars.css";
+
+.App {
+  background-color: var(--color-bg);
+  /* background: radial-gradient(circle at 24.1% 68.8%, #04152d 0%, rgb(0, 0, 0) 99.4%); */
+  /* background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%); */
+  /* background: linear-gradient(115deg, rgb(129, 5, 5) 5.8%, rgb(0, 0, 0) 112.6%); */
+  /* background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%); */
+  /* background: linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%); */
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
